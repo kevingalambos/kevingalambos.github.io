@@ -12,7 +12,7 @@ author: Kevin Galambos
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  aboutme: "aboutme"
+  #aboutme: "aboutme"
   Research: "Research"
   #Teaching: "Teaching"
   CV: "CV"
