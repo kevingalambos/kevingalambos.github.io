@@ -5,16 +5,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Kevin Galambos
+title: kevin
 
 # Your name to show in the footer
-author: Kevin Galambos
+author: kevin
 
 # --- List of links in the navigation bar --- #
 navbar-links:
   Research: "Research"
   Teaching: "Teaching"
- # CV: "CV"
+  CV: "CV"
   
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
@@ -34,10 +34,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kevingalambos@utexas.edu"
+  email: "kevin@utexas.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: kevingalambos
-  twitter: kevgalambos
+  github: kevin
+  twitter: kev
 #  medium: yourname
 #  linkedin: 
 #  stackoverflow: 
@@ -119,7 +119,7 @@ footer-hover-col: "#0085A1"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: "G-VGHL8Z3MDW"
+gtag: "G-VGHL8Z3MDW"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
