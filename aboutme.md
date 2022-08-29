@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Kevin Galambos
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Hi! I am Kevin. I am a PdD candidate at UT. Nothing more.
 
 ### My story
 
