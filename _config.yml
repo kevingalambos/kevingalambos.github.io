@@ -5,15 +5,15 @@
 # --- Required options --- #
 
 # Name of website
-title: kevin
+title: Kevin Galambos
 
 # Your name to show in the footer
-author: kevin
+author: Kevin Galambos
 
 # --- List of links in the navigation bar --- #
 navbar-links:
   Research: "Research"
-  Teaching: "Teaching"
+  #Teaching: "Teaching"
   CV: "CV"
   
 # --- Logo --- #
@@ -34,10 +34,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kevin@utexas.edu"
+  email: "kevingalambos@utexas.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: kevin
-  twitter: kev
+  github: kevingalambos
+  twitter: kevgalambos
 #  medium: yourname
 #  linkedin: 
 #  stackoverflow: 
